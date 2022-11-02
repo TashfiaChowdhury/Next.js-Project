@@ -43,3 +43,36 @@ naming convertion -
 
 //to add style in js file
 classname={styles.name_of_style_from_css}
+
+
+creating new pages 
+naming convertion
+name.js
+rafce
+
+Customized
+function practice ()  {
+  return (
+  
+  )
+}
+
+export default practice
+
+how to run 
+1.open a new terminal
+
+2.npm run dev(run project)
+3.click the link
+4.cntrl + C (close project)
+
+
+ Day 2 :
+  1.create a .js file
+  2.how to customized the js file
+  3.add css file
+  4.name css file
+  5.button
+  6.interlink pages
+
+

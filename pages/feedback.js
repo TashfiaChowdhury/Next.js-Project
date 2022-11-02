@@ -42,7 +42,7 @@ function Feedback() {
     <div>
       
     <button className="btn p+20"> <Link href="/message">Submit</Link> </button>
-    
+    <button className="new"> <Link href="/">next</Link></button>
     </div>
 
 

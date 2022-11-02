@@ -8,12 +8,12 @@ function admin () {
     Welcome to Admin Page 
     
     </p>
-    <h3>
+    <h2>
         Feedback
         Database
         payment
         Order 
-    </h3>
+    </h2>
     </>
     
   )
